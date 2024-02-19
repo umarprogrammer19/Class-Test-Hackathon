@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    height: 90px;
+    background-color: black;
+}
+
+.main .navb {
+    height: 100%;
+}
+
+.main .navb a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.main .navb .logon a img {
+    width: 160px;
+    height: 80px;
+}
+
+.main .navb a img {
+    height: 15px;
+    width: 15px;
+}
+
+.main .navb .logon .logo {
+    font-size: 28px;
+    color: #666666;
+}
+
+.main2{
+    background-color: black;
+    height: 700px;
+}
+
+.main2 div h1 span{
+    font-size: 65px;
+}
+
+.main3 .div2 .btn1{
+    width: 180px !important;
+    height: 40px !important;
+}
+
+.main3 .div2 div .ina{
+   letter-spacing: 10px !important;
+}
+
+
+.main4 .cards img{
+    width: 330px;
+    height: 250px;
+}
